@@ -1,0 +1,76 @@
+{
+  "spending": [
+    {
+      "id": "1717838316985",
+      "description": "20일",
+      "price": 15000,
+      "type": "income",
+      "year": "2024",
+      "month": "6",
+      "day": "20"
+    },
+    {
+      "id": "1717838324323",
+      "description": "6일",
+      "price": 20000,
+      "type": "income",
+      "year": "2024",
+      "month": "6",
+      "day": "6"
+    },
+    {
+      "id": "1717838335799",
+      "description": "7월 18일",
+      "price": 20000,
+      "type": "outcome",
+      "year": "2024",
+      "month": "7",
+      "day": "18"
+    },
+    {
+      "id": "1717838344542",
+      "description": "8월 15일",
+      "price": 30000,
+      "type": "income",
+      "year": "2024",
+      "month": "8",
+      "day": "15"
+    },
+    {
+      "id": 1717839197534,
+      "description": "안녕",
+      "price": 1234,
+      "type": "income",
+      "year": "2024",
+      "month": "6",
+      "day": "19"
+    },
+    {
+      "id": 1717839211734,
+      "description": "출금하기",
+      "price": 1234,
+      "type": "outcome",
+      "year": "2024",
+      "month": "5",
+      "day": "16"
+    },
+    {
+      "id": 1717839229731,
+      "description": "2월달 입금",
+      "price": 1234,
+      "type": "income",
+      "year": "2024",
+      "month": "2",
+      "day": "21"
+    },
+    {
+      "id": 1717839495338,
+      "description": "1월달 ",
+      "price": 30000,
+      "type": "income",
+      "year": "2024",
+      "month": "1",
+      "day": "8"
+    }
+  ]
+}
